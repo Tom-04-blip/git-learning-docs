@@ -1,3 +1,7 @@
+Regression analysis is a powerful statistical method that allows us to 
+examine the relationship between two or more variables. In this example, 
+we will implement a simple linear regression model using Python. 
+The goal is to find the best-fitting line that describes the relationship between the input data (x) and the output data (y).
 # def 数据特征·
 x_data = [1,2,3]
 
